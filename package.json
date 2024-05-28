@@ -9,17 +9,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mastashake08/discord-twitter-bot.git"
+    "url": "https://github.com/Franciscooxz/DiscordxTwitter.git"
   },
   "keywords": [
     "discord",
     "twitter",
     "bot"
   ],
-  "author": "mastashake08",
+  "author": "DavinchiiiX",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mastashake08/discord-twitter-bot/issues"
+    "url": "https://github.com/Franciscooxz/DiscordxTwitter.git"
   },
   "dependencies": {
     "discord.js": "^14.7.1",

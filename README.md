@@ -10,7 +10,7 @@ Este bot utiliza las bibliotecas `twitter-api-v2` para interactuar con la API de
 1. Clona este repositorio:
 
 ```bash
-git clone https://github.com/mastashake08/discord-twitter-bot.git
+git clone https://github.com/Franciscooxz/DiscordxTwitter.git
 
 cd discord-twitter-bot
 npm install
